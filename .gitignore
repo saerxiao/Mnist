@@ -3,3 +3,5 @@
 .settings/
 test/
 checkpoint/
+mnist.t7/*
+*.t7
